@@ -9,5 +9,6 @@
 * [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus)
   * [selenium_learning](https://github.com/BorisPlaton/selenium_learning)
 
+
 Учебные проекты:
 * [study_projects](https://github.com/BorisPlaton/study_projects)
