@@ -4,14 +4,16 @@ Django:
 * [TODO сайт](https://github.com/BorisPlaton/todo_django)
 * [Пробный код Django](https://github.com/BorisPlaton/django_first_repo)
  
-Flask
+Flask:
 * [Сайт с обзорами на книги](https://github.com/BorisPlaton/books_flask)
 * [Форум сайт](https://github.com/BorisPlaton/forum_flask_app)
+* [Простой Rest API](https://github.com/BorisPlaton/member_api)
 * [Сайт вопросов](https://github.com/BorisPlaton/ask_flask_app)
 * [Трекер еды](https://github.com/BorisPlaton/foodtracker_flask_app)
+* [Сайт дневник](https://github.com/BorisPlaton/diary_app)
 
 Побочные проекты:
-* [study_projects](https://github.com/BorisPlaton/study_projects)
+* [Учебные проекты](https://github.com/BorisPlaton/study_projects)
 
 Код заданий с курсов:
 * [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
