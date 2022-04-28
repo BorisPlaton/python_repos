@@ -14,6 +14,7 @@
 * [Сайт дневник](https://github.com/BorisPlaton/diary_app)
 
 ### Побочные проекты:
+* [Задачи, разный код](https://github.com/BorisPlaton/python_exercise)
 * [Учебные проекты](https://github.com/BorisPlaton/study_projects)
 
 ### Код заданий с курсов:
