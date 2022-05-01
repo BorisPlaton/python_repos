@@ -1,7 +1,7 @@
 # Код Python и Учебные проекты
 
 ### Django:
-* [Онлайн магазин (Незаконченно)](https://github.com/BorisPlaton/shop_django)
+* [Онлайн магазин](https://github.com/BorisPlaton/shop_django)
 * [TODO сайт](https://github.com/BorisPlaton/todo_django)
 * [Пробный код Django](https://github.com/BorisPlaton/django_first_repo)
  
