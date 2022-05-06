@@ -1,6 +1,7 @@
 # Код Python и Учебные проекты
 
 ### Django:
+* [Каталог работников](https://github.com/BorisPlaton/abz_task)
 * [Онлайн магазин](https://github.com/BorisPlaton/shop_django)
 * [TODO сайт](https://github.com/BorisPlaton/todo_django)
 * [Пробный код Django](https://github.com/BorisPlaton/django_first_repo)
