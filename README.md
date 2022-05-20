@@ -20,6 +20,7 @@
 * [Учебные проекты](https://github.com/BorisPlaton/study_projects)
 
 ### Код заданий с курсов:
+Мой [аккаунт](https://stepik.org/users/422122461) на Stepik'e.
 * [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
   * [algorithms_methods](https://github.com/BorisPlaton/algorithms_methods)
 * [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/syllabus)
