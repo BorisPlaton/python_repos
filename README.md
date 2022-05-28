@@ -16,9 +16,10 @@
 * [Сайт дневник](https://github.com/BorisPlaton/diary_app)
 
 ### Побочные проекты:
+* [Курсовая работа (turtle, matplotlib, numpy, pandas)](https://github.com/BorisPlaton/course_work)
+* [Скрипт вывода информации о погоде](https://github.com/BorisPlaton/weather_utility)
 * [Задачи, разный код](https://github.com/BorisPlaton/python_exercise)
 * [Учебные проекты](https://github.com/BorisPlaton/study_projects)
-* [Курсовая работа (turtle, matplotlib, numpy, pandas)](https://github.com/BorisPlaton/course_work)
 
 ### Код заданий с курсов:
 Мой [аккаунт](https://stepik.org/users/422122461) на Stepik'e.
