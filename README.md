@@ -1,4 +1,4 @@
-# Код Python и Учебные проекты
+# Код Python и учебные проекты
 
 ### Django:
 * [Социальная сеть](https://github.com/BorisPlaton/book_social_network)
@@ -16,12 +16,6 @@
 * [Трекер еды](https://github.com/BorisPlaton/foodtracker_flask_app)
 * [Сайт дневник](https://github.com/BorisPlaton/diary_app)
 
-### Побочные проекты:
-* [Курсовая работа (turtle, matplotlib, numpy, pandas)](https://github.com/BorisPlaton/course_work)
-* [Скрипт вывода информации о погоде](https://github.com/BorisPlaton/weather_utility)
-* [Задачи, разный код](https://github.com/BorisPlaton/python_exercise)
-* [Учебные проекты](https://github.com/BorisPlaton/study_projects)
-
 ### Код заданий с курсов:
 Мой [аккаунт](https://stepik.org/users/422122461) на Stepik'e.
 * [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
@@ -35,3 +29,8 @@
   * [stepik_selenium](https://github.com/BorisPlaton/stepik_selenium)
   * [selenium_learning](https://github.com/BorisPlaton/selenium_learning)
 
+### Разное:
+* [Курсовая работа (turtle, matplotlib, numpy, pandas)](https://github.com/BorisPlaton/course_work)
+* [Скрипт вывода информации о погоде](https://github.com/BorisPlaton/weather_utility)
+* [Задачи, разный код](https://github.com/BorisPlaton/python_exercise)
+* [Учебные проекты](https://github.com/BorisPlaton/study_projects)
