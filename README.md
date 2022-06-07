@@ -7,7 +7,7 @@
 * [Онлайн магазин](https://github.com/BorisPlaton/shop_django)
 * [TODO сайт](https://github.com/BorisPlaton/todo_django)
 * [Пробный код Django](https://github.com/BorisPlaton/django_first_repo)
- 
+---
 ### Flask:
 * [Сайт с обзорами на книги](https://github.com/BorisPlaton/books_flask)
 * [Форум сайт](https://github.com/BorisPlaton/forum_flask_app)
@@ -15,7 +15,7 @@
 * [Сайт вопросов](https://github.com/BorisPlaton/ask_flask_app)
 * [Трекер еды](https://github.com/BorisPlaton/foodtracker_flask_app)
 * [Сайт дневник](https://github.com/BorisPlaton/diary_app)
-
+---
 ### Код заданий с курсов:
 Мой [аккаунт](https://stepik.org/users/422122461) на Stepik'e.
 * [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
@@ -28,7 +28,7 @@
   * [final_project_selenium_stepik](https://github.com/BorisPlaton/final_project_selenium_stepik)
   * [stepik_selenium](https://github.com/BorisPlaton/stepik_selenium)
   * [selenium_learning](https://github.com/BorisPlaton/selenium_learning)
-
+---
 ### Разное:
 * [Курсовая работа (turtle, matplotlib, numpy, pandas)](https://github.com/BorisPlaton/course_work)
 * [Скрипт вывода информации о погоде](https://github.com/BorisPlaton/weather_utility)
