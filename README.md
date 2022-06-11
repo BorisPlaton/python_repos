@@ -34,6 +34,7 @@
 
 ### Разное:
 ---
+* [Keylogger](https://github.com/BorisPlaton/keylogger)
 * [Курсовая работа (turtle, matplotlib, numpy, pandas)](https://github.com/BorisPlaton/course_work)
 * [Скрипт вывода информации о погоде](https://github.com/BorisPlaton/weather_utility)
 * [Задачи, разный код](https://github.com/BorisPlaton/python_exercise)
