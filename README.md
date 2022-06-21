@@ -2,6 +2,7 @@
 
 ### Django:
 ---
+* [Тренажер скорости набора текста](https://github.com/BorisPlaton/typing_speed_trainer)
 * [Социальная сеть](https://github.com/BorisPlaton/book_social_network)
 * [Блог-сайт](https://github.com/BorisPlaton/book_django_blog)
 * [Каталог работников](https://github.com/BorisPlaton/abz_task)
