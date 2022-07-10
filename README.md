@@ -12,9 +12,10 @@
 
 ### Flask:
 ---
+* [API случайных слов](https://github.com/BorisPlaton/random_words_api)
 * [Сайт с обзорами на книги](https://github.com/BorisPlaton/books_flask)
 * [Форум сайт](https://github.com/BorisPlaton/forum_flask_app)
-* [Простой Rest API](https://github.com/BorisPlaton/member_api)
+* [Простое API](https://github.com/BorisPlaton/member_api)
 * [Сайт вопросов](https://github.com/BorisPlaton/ask_flask_app)
 * [Трекер еды](https://github.com/BorisPlaton/foodtracker_flask_app)
 * [Сайт дневник](https://github.com/BorisPlaton/diary_app)
