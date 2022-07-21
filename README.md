@@ -3,10 +3,10 @@
 ### Django
 ---
 * [Тренажер скорости набора текста](https://github.com/BorisPlaton/typing_speed_trainer)
-* [Социальная сеть](https://github.com/BorisPlaton/book_social_network)
-* [Блог-сайт](https://github.com/BorisPlaton/book_django_blog)
+* [Онлайн магазин (из книги)](https://github.com/BorisPlaton/book_myshop)
+* [Социальная сеть (из книги)](https://github.com/BorisPlaton/book_social_network)
+* [Блог-сайт (из книги)](https://github.com/BorisPlaton/book_django_blog)
 * [Каталог работников](https://github.com/BorisPlaton/abz_task)
-* [Онлайн магазин](https://github.com/BorisPlaton/shop_django)
 * [TODO сайт](https://github.com/BorisPlaton/todo_django)
 * [Пробный код Django](https://github.com/BorisPlaton/django_first_repo)
 
