@@ -3,6 +3,7 @@
 ### Django
 ---
 * [Тренажер скорости набора текста](https://github.com/BorisPlaton/typing_speed_trainer)
+* [Обучающая платформа (из книги)](https://github.com/BorisPlaton/book_learning_platform)
 * [Онлайн магазин (из книги)](https://github.com/BorisPlaton/book_myshop)
 * [Социальная сеть (из книги)](https://github.com/BorisPlaton/book_social_network)
 * [Блог-сайт (из книги)](https://github.com/BorisPlaton/book_django_blog)
